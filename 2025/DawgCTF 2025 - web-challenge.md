@@ -1,14 +1,3 @@
----
-title: '[CTF Write-up] DawgCTF 2025 - web-challenge (WebAssembly)'
-tags: [ctf, wasm, reverse engineering, dawgsctf, writeup]
-
----
-
----
-title: "DawgCTF 2025 - WebAssembly Challenge Write-up"
-tags: [ctf, dawgsctf, wasm, reverse engineering, web]
----
-
 # DawgCTF-SP25 Web-Challenge Writeup
 
 ## Description
