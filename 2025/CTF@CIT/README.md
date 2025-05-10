@@ -11,17 +11,17 @@
 - [Baby Keygen](Reverse-Engineering/Baby-Keygen/README.md)
 
 ## WEB
-- [Breaking Authentication](Web/Breaking\ Authentication/README.md)
-- [Commit and Order Version Control](Web/Commit\ and\ Order\ Version\ Control/README.md)
+- [Breaking Authentication](Web/Breaking Authentication/README.md)
+- [Commit and Order Version Control](Web/Commit and Order Version Control/README.md)
 
 ## Osint
-- [No Country for Old Keys](Osint/No\ Country\ for\ Old\ Keys/README.md)
-- [Throwback to The Future](Osint/Throwback\ to\ The\ Future/README.md)
+- [No Country for Old Keys](Osint/No Country for Old Keys/README.md)
+- [Throwback to The Future](Osint/Throwback to The Future/README.md)
 
 ## Forensics
-- [Brainrot Quiz](Forensics/Brainrot\ Quiz.md)
+- [Brainrot Quiz](Forensics/Brainrot Quiz.md)
 
 ## Misc
-- [Robots](Misc/Robots\ -\ Misc.md)
+- [Robots](Misc/Robots - Misc.md)
 
 ---
