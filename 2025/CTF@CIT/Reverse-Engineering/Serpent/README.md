@@ -4,7 +4,7 @@
 
 add return in the code where the obfuscated variable is generated --> then print the result.
 
-![Screenshot_4](https://hackmd.io/_uploads/rJsBcPhgel.png)
+![img](img1.png)
 
-![Screenshot_1](https://hackmd.io/_uploads/B1S72P2xgg.png)
+![img](img2.png)
 flag : CIT{2G20kX09yF3F}
