@@ -3,7 +3,7 @@
 ## Solution
 
 The main function reads a key from stdin and calls `check_key` on the input.
-![Screenshot_8](https://hackmd.io/_uploads/BkPTIu3lee.png)
+![img](img1.png)
 
 `check_key(std::string)` which aims to verify an input string given in the param_1 parameter.
 
@@ -59,6 +59,6 @@ If the character found is not alphanumeric, the program will jump to `LAB_00407f
 
 In conclusion This function checks whether the input is exactly 16 characters, then starts with “KEY_”, and characters 5-16 are alphanumeric, if all this is met the program will give its flag.
 
-![Screenshot_7](https://hackmd.io/_uploads/HkqOpP3lll.png)
+![img](img2.png)
 
 flag : CIT{41jN8BKzz388}
